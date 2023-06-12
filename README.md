@@ -26,7 +26,7 @@ This portfolio includes the following:
 
 ## Skills and Experience
 
-I have experience in the following areas:
+I contually learning to grow my experience in the following areas:
 
 - Linux
 - Bash
@@ -50,6 +50,7 @@ I have experience in the following areas:
 I have earned the following education and certifications:
 
 - Google Cybersecurity Certificate (2023)
+- - ![tryhackme stats](https://raw.githubusercontent.com/<ghostpixel/<derek-skinner>/master/assets/thm_propic.png)
 
 ## Contact Information
 
