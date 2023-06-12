@@ -50,7 +50,7 @@ I contually learning to grow my experience in the following areas:
 I have earned the following education and certifications:
 
 - Google Cybersecurity Certificate (2023)
-- ![tryhackme stats](https://raw.githubusercontent.com/<derek-skinner/<derek-skinner>/master/assets/thm_propic.png)
+- [<img src ="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white"]![Ghostpixel](https://tryhackme.com/p/Ghostpixel)
 
 ## Contact Information
 
