@@ -12,17 +12,17 @@ As a cybersecurity professional, my primary objective is to ensure the confident
 
 This portfolio includes the following:
 
-- [Applying Filters to SQL Queries]()
-- [Botium Toys Security Audit]()
-- [Brute Force Network Analyzer]()
-- [Cybersecurity Incident - NIST Framework]()
-- [DoS Network Analyzer]()
-- [Incident Handlers Journal]()
-- [Linux File Permissions]()
-- [Network Hardening]()
-- [Parking Lot USB]()
-- [Use a Playbook to Respond to a Phishing Incident]()
-- [Wireshark Network Analyzer]()
+- [Applying Filters to SQL Queries](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Applying%20Filters%20to%20SQL%20Queries%20Exercise)
+- [Botium Toys Security Audit](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Botium%20Toys%20-%20%20Security%20Audit%20Exercise)
+- [Brute Force Network Analyzer](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Brute%20Force%20Network%20Analyzer%20Exercise)
+- [Cybersecurity Incident - NIST Framework](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Cybersecurity%20Incident%20-%20NIST%20Framework)
+- [DoS Network Analyzer](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/DoS%20Network%20Analyzer%20Exercise)
+- [Incident Handlers Journal](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Incident%20Handlers%20Journal%20Exercise)
+- [Linux File Permissions](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Linux%20File%20Permissions%20Exercise)
+- [Network Hardening](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Network%20Hardening%20Exercise)
+- [Parking Lot USB](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Parking%20Lot%20USB%20Exercise)
+- [Use a Playbook to Respond to a Phishing Incident](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Use%20a%20Playbook%20to%20Respond%20to%20a%20Phishing%20Incident%20Exercise)
+- [Wireshark Network Analyzer](https://github.com/derek-skinner/Cybersecurity-Professional-Portfolio/tree/main/Wireshark%20Network%20Analyzer%20Exercise)
 
 ## Skills and Experience
 
