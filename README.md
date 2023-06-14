@@ -50,6 +50,7 @@ I contually learning to grow my experience in the following areas:
 I have earned the following education and certifications:
 
 - Google Cybersecurity Certificate (2023)
+- Palo Alto Networks Cybersecurity Fundamentals Certificate (2023)
 - [My TryHackMe Profile](https://tryhackme.com/p/Ghostpixel)
 
 ## Contact Information
@@ -57,5 +58,3 @@ I have earned the following education and certifications:
 If you have any questions or would like to get in touch, please feel free to contact me at derektskinner@gmail.com
 
 Thank you for visiting my portfolio!
-
-![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=TryHackMe&logoColor=white)
