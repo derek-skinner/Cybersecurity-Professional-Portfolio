@@ -26,7 +26,7 @@ This portfolio includes the following:
 
 ## Skills and Experience
 
-I contually learning to grow my experience in the following areas:
+I continually learning to grow my experience in the following areas:
 
 - Linux
 - Bash
